@@ -13,7 +13,7 @@ Lizenz](https://creativecommons.org/licenses/by-sa/4.0/deed.de) erlaubt. Wenn
 möglich sollte dafür das git-Repository weitergeführt werden (in der
 git-Terminologie als "Fork" bezeichnet), so dass Korrekturen und Erweiterungen
 leichter zurückfliessen können. Für Kommentare und Korrekturen können die
-enstsprechenden Funktionen [bei
+entsprechenden Funktionen [bei
 Penflip](https://www.penflip.com/nichtich/normdaten-in-wikidata/discussions)
 und [bei GitHub](https://github.com/hshdb/normdaten-in-wikidata/issues)
 verwendet werden.
